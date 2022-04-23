@@ -8,5 +8,8 @@ Lab Reports
 ---
 
 * [Lab Report 1](https://aaron8004963.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-* lab Report 2
+* [lab Report 2](https://github.com/aaron8004963/cse15l-lab-reports/blob/main/lab-report-2-week-4.md)
+* lab Report 3
+* lab Report 4
+* lab Report 5
 
