@@ -28,7 +28,7 @@
 
 Example of command: ls
 
-![Image](report1Image\Remotely-Connecting.png)
+![Image](report1Image\exampleLs.png)
 
 ## Forth step: Moving Files with scp
 * By using scp, we can copy files from our computer to server
