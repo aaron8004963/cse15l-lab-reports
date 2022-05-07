@@ -18,13 +18,13 @@ before. We first need to create an condig fiel in "C:\Users\[username]}\.ssh". I
 
 ## Setup Github Access from ieng6
 
-### Screenshot of the code diff
+### 
 ![Image](report2Image\code-diff2.png)
 
-### link to the test file for a failure-inducing input
+### 
 [failure-inducing_input_file2](https://github.com/aaron8004963/markdown-parser/blob/main/myTest-file2.md)
 
-### the Symptom of that input
+### 
 ![Image](report2Image\image_as_link.png)
 
 ### Describing
