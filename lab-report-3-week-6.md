@@ -40,4 +40,4 @@ This option enable us to use push from the command line. What we need to do is c
 ![Image](report3Image\combineAndTest.png)
 
 ### Describing
-This option allowed us to copy whole directory with "scp -r". And this command is also allowed use combination of ";" and "ssh"
+This option allowed us to copy directory with "scp -r". And this command is also allowed use combination of ";" and "ssh"
