@@ -23,7 +23,7 @@
 ### running git commands to commit and push a change to Github
 ![Image](report3Image\successfulPush.png)
 
-### 
+### Link of that commit
 [Iink to resulting commit](https://github.com/aaron8004963/cse15l-lab-reports/blob/4086ca694d1e75f3e12e36f5b7866f38f2fabf1d/lab-report-3-week-6.md)
 
 ### Describing
@@ -34,10 +34,10 @@ This option enable us to use push from the command line. What we need to do is c
 ![Image](report3Image\copyingWholeDirectory.png)
 
 ### logging into your ieng6 account after doing this and compiling and running the tests for your repository
-[failure-inducing_input_file3](https://github.com/aaron8004963/markdown-parser/blob/main/myTest-file3.md)
+![Image](report3Image\compilelingAndRunTests.png)
 
 ### combining scp, ;, and ssh to copy the whole directory and run the tests in one line
-![Image](report2Image\indexNegative.png)
+![Image](report3Image\combineAndTest.png)
 
 ### Describing
-In this case, the symptom I found is that the program outputs a "IndexOutOfBoundException". I think the bug is caused due to the previous change. This program would still check the chat at previous index of the closebracket when the closebracket is at the index 0. 
+This option allowed us to copy whole directory with "scp -r". And this command is also allowed use combination of ";" and "ssh". 
