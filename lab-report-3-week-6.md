@@ -12,20 +12,19 @@
 ### Screenshot of scp with alias
 ![Image](report3Image\scpWithAlie.png)
 
-### Describing
-This option "Streamlining ssh Configuration" help us to login our account much faster than
-before. We first need to create an condig fiel in "C:\Users\[username]}\.ssh". Inside the config file, we can set the aliasto login whatever we want. Then, we are able to login to our account by simply typing "ssh [alias]".
+### running git commands to commit and push a change to Github
+![Image](report3Image\successfulPush.png)
 
 ## Setup Github Access from ieng6
 
-### 
-![Image](report2Image\code-diff2.png)
+### public key I made is stored on Github
+![Image](report3Image\pubKeyInGithub.png)
+
+### public and private key I made in user account
+![Image](report3Image\privateKey&puclicKeyInUserAcc.png)
 
 ### 
-[failure-inducing_input_file2](https://github.com/aaron8004963/markdown-parser/blob/main/myTest-file2.md)
-
-### 
-![Image](report2Image\image_as_link.png)
+[Iink to resulting commit](report2Image\image_as_link.png)
 
 ### Describing
 In this case, the symptom I found is that this program incorrectly take the image address as the link address.
