@@ -29,7 +29,7 @@
 ### Describing
 This option enable us to use push from the command line. What we need to do is copy the existing public key to github account - setting - add new shh key. Then, we will be able to use "git push origin main" to push a change"
 
-## Copy whole directories with scp -r
+## Option 3 Copy whole directories with scp -r
 ### copying my whole markdown-parse directory to your ieng6 
 ![Image](report3Image\copyingWholeDirectory.png)
 
