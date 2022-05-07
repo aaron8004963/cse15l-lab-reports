@@ -1,7 +1,7 @@
 # Lab Report 3
 > implement all group choice options from lab 5
 
-## Streamlining ssh Configuration
+## Option 1: Streamlining ssh Configuration
 
 ### Screenshot of the .ssh/config file
 ![Image](report3Image\ConfigEditing.png)
@@ -12,10 +12,7 @@
 ### Screenshot of scp with alias
 ![Image](report3Image\scpWithAlie.png)
 
-### running git commands to commit and push a change to Github
-![Image](report3Image\successfulPush.png)
-
-## Setup Github Access from ieng6
+## Option 2: Setup Github Access from ieng6
 
 ### public key I made is stored on Github
 ![Image](report3Image\pubKeyInGithub.png)
@@ -23,21 +20,23 @@
 ### public and private key I made in user account
 ![Image](report3Image\privateKey&puclicKeyInUserAcc.png)
 
+### running git commands to commit and push a change to Github
+![Image](report3Image\successfulPush.png)
+
 ### 
-[Iink to resulting commit](report2Image\image_as_link.png)
+[Iink to resulting commit](https://github.com/aaron8004963/cse15l-lab-reports/blob/4086ca694d1e75f3e12e36f5b7866f38f2fabf1d/lab-report-3-week-6.md)
 
 ### Describing
-In this case, the symptom I found is that this program incorrectly take the image address as the link address.
-The bug is that this program only detect the brackets and simply identify all contents between brackets is the link. Therefore, this program ignores the "!" before bracket.
+This option enable us to use push from the command line. What we need to do is copy the existing public key to github account - setting - add new shh key. Then, we will be able to use "git push origin main" to push a change"
 
 ## Copy whole directories with scp -r
-### Screenshot of the code diff
-![Image](report2Image\coded-diff3.png)
+### copying my whole markdown-parse directory to your ieng6 
+![Image](report3Image\copyingWholeDirectory.png)
 
-### link to the test file for a failure-inducing input
+### logging into your ieng6 account after doing this and compiling and running the tests for your repository
 [failure-inducing_input_file3](https://github.com/aaron8004963/markdown-parser/blob/main/myTest-file3.md)
 
-### the Sypmtom of that input
+### combining scp, ;, and ssh to copy the whole directory and run the tests in one line
 ![Image](report2Image\indexNegative.png)
 
 ### Describing
