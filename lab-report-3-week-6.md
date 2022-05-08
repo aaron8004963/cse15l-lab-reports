@@ -28,7 +28,7 @@
 [Iink to resulting commit](https://github.com/aaron8004963/markdown-parser/commit/926a98dd715855f72306302155ebadd0be165e52)
 
 ### Describing
-This option enable us to use push from the command line in server. What we need to do is copy the public key to github account - setting - add new shh key. Then, while logged in server, after editing some file and committing, then we will be able to use "git push origin main" to push a change"
+This option enable us to use push from the command line in server. What we need to do is copy the public key to github account - setting - add new shh key. Then, while logged in server, after editing some file and committing(before commiting, we need to use "add filename" to add the file which nedded to be commit), then we will be able to use "git push origin main" to push a change"
 
 ## Option 3 Copy whole directories with scp -r
 ### copying my whole markdown-parse directory to your ieng6 
