@@ -20,7 +20,7 @@
 ### public and private key I made in user account
 ![Image](report3Image\privateKey&puclicKeyInUserAcc.png)
 
-### running git commands to commit and push a change to Github
+### running git commands to commit and push a change to Github while logged in
 ![Image](report3Image\successfulPush.png)
 
 ### Link of that commit
