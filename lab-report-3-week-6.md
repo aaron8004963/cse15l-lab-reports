@@ -25,7 +25,7 @@
 ![Image](report3Image\successfulPush.png)
 
 ### Link of that commit
-[Iink to resulting commit](https://github.com/aaron8004963/cse15l-lab-reports/blob/4086ca694d1e75f3e12e36f5b7866f38f2fabf1d/lab-report-3-week-6.md)
+[Iink to resulting commit](https://github.com/aaron8004963/markdown-parser/commit/926a98dd715855f72306302155ebadd0be165e52)
 
 ### Describing
 This option enable us to use push from the command line in server. What we need to do is copy the public key to github account - setting - add new shh key. Then, while logged in server, after editing some file and committing, then we will be able to use "git push origin main" to push a change"
