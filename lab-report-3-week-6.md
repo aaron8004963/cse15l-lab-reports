@@ -18,6 +18,7 @@
 ![Image](report3Image\pubKeyInGithub.png)
 
 ### public and private key I made in user account
+![Image](report3Image\successfulPush.png)
 ![Image](report3Image\privateKey&puclicKeyInUserAcc.png)
 
 ### running git commands to commit and push a change to Github while logged in
@@ -27,7 +28,7 @@
 [Iink to resulting commit](https://github.com/aaron8004963/cse15l-lab-reports/blob/4086ca694d1e75f3e12e36f5b7866f38f2fabf1d/lab-report-3-week-6.md)
 
 ### Describing
-This option enable us to use push from the command line. What we need to do is copy the existing public key to github account - setting - add new shh key. Then, we will be able to use "git push origin main" to push a change"
+This option enable us to use push from the command line in server. What we need to do is copy the public key to github account - setting - add new shh key. Then, while logged in server, after editing some file and committing, then we will be able to use "git push origin main" to push a change"
 
 ## Option 3 Copy whole directories with scp -r
 ### copying my whole markdown-parse directory to your ieng6 
