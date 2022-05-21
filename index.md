@@ -10,6 +10,6 @@ Lab Reports
 * [Lab Report 1](https://aaron8004963.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 * [Lab Report 2](https://aaron8004963.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 * [lab Report 3](https://aaron8004963.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
-* lab Report 4
+* [lab Report 4](https://aaron8004963.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 * lab Report 5
 
